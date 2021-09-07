@@ -14,3 +14,8 @@ https://github.com/kornrunner/php-keccak
 大家一起相互学习 请尊重他人劳动成果
 QQ群：588927820
 ETH 主网捐助地址：0xE573ee84bAf2939572dB0A8FA296e559d013bbE3
+
+
+ps:
+php-bcmath
+php-gmp
